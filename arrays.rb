@@ -47,3 +47,7 @@ p patient_good
 # The index position is the location of an element within an Array.
 # Ex.) In the patient_weight Array, 50.2 has an index position of 0 (index
 # positions start at 0), 115.4 has an index position of 3.
+
+# The shuffle method is being called on the patients Array. The shuffle method
+# rearranges the elements into a random order within the Array.
+p patients.shuffle
