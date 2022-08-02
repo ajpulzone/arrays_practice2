@@ -43,3 +43,7 @@ p patient_good
 # last element of the patient_good Array.
 patient_good.pop
 p patient_good
+
+# The index position is the location of an element within an Array.
+# Ex.) In the patient_weight Array, 50.2 has an index position of 0 (index
+# positions start at 0), 115.4 has an index position of 3.
